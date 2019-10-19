@@ -1,0 +1,127 @@
+{
+  "extName":  {
+      "message": "Счетчик рабочего времени",
+      "description": "Chrome extension name."
+  },
+  "extDescription": {
+    "message": "Учет рабочего времени",
+    "description": "Chrome extension description."
+  },
+  "dialogRemoveAccountConfirm": {
+    "message": "Вы уверены, что хотете удалить аккаунт?"
+  },
+  "dialogRemoveAccountConfirmTicket": {
+    "message": "Tickets in projects will also be removed from select list."
+  },
+  "dialogRemoveAccountConfirmRedmine": {
+    "message": "Data on the redmine server does not change."
+  },
+  "dialogLoginConfirm": {
+    "message": "Please enter authentication information of Network Proxy."
+  },
+  "dialogLoginUsername": {
+    "message": "Логин"
+  },
+  "dialogLoginPassword": {
+    "message": "Пароль"
+  },
+  "msgRequestAddAccount_0": {
+    "message": "Сначала установите свой Redmine аккаунт"
+  },
+  "msgRequestAddAccount_1": {
+    "message": "If authentication succeeds, tickets will be displayed."
+  },
+  "msgRequestInputURL": {
+    "message": "Please input the Redmine Server URL."
+  },
+  "msgAuthSuccess": {
+    "message": "Succeed authentication!"
+  },
+  "msgAuthFail": {
+    "message": "Failed authentication."
+  },
+  "msgUpdateSuccess": {
+    "message": "Account Information updated."
+  },
+  "msgNotFoundError": {
+    "message": "Can not find the page on server."
+  },
+  "msgAccessError": {
+    "message": "Can not access to server."
+  },
+  "msgUrlFormatError": {
+    "message": "Format of the URL is incorrect."
+  },
+  "msgAccountRemoved": {
+    "message": "{{arg0}} removed."
+  },
+  "msgLoadIssueFail": {
+    "message": "Failed to load issues."
+  },
+  "msgAdded": {
+    "message": "\"{{arg0}}\" added."
+  },
+  "msgRemoved": {
+    "message": "\"{{arg0}}\" removed."
+  },
+  "msgOptionSaved": {
+    "message": "Option saved."
+  },
+  "msgOptionSaveFailed": {
+    "message": "Failed to save."
+  },
+  "msgClearDataSucess": {
+    "message": "{{arg0}} cleared."
+  },
+  "msgClearDataFail": {
+    "message": "Clear failed."
+  },
+  "msgSubmitTimeEntry": {
+    "message": "Submitting {{arg0}}: {{arg1}}"
+  },
+  "msgShortTime": {
+    "message": "More than one minute is required."
+  },
+  "msgSelectActivity": {
+    "message": "Please choose an Activity."
+  },
+  "msgSelectTicket": {
+    "message": "Please choose a ticket."
+  },
+  "msgSubmitTimeSuccess": {
+    "message": "Time Entry saved."
+  },
+  "msgSubmitTimeFail": {
+    "message": "Save failed. "
+  },
+  "msgCannotFetchProject": {
+    "message": "Projects to get has not been set on {{arg0}}. Please check the account settings."
+  },
+  "msgLoadProjectSuccess": {
+    "message": "Loaded {{arg1}} Projects on {{arg0}}."
+  },
+  "msgLoadProjectFail": {
+    "message": "Failed to load {{arg1}} Projects on {{arg0}}."
+  },
+  "msgLoadProjectFailId": {
+    "message": "Failed to load Project(ID: {{arg1}}) on {{arg0}}."
+  },
+  "msgLoadQueryFail": {
+    "message": "Failed to load custom queries on {{arg0}}."
+  },
+  "msgLoadStatusesFail": {
+    "message": "Failed to load statuses of issue on {{arg0}}."
+  },
+  "msgIssueClosed": {
+    "message": "\"{{arg0}}\" was closed."
+  },
+  "msgIssueMissing": {
+    "message": "\"{{arg0}}\" was not found on {{arg1}}."
+  },
+  "msgCommentTooLong": {
+    "message": "Comment is too long (maximum is 255 characters)"
+  },
+  "status": {
+    "message": "[status: {{arg0}}]"
+  }
+}

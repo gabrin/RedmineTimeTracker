@@ -13,5 +13,5 @@ timeTracker.config ($translateProvider, PlatformProvider) ->
   lang = PlatformProvider.getLanguage()
   console.debug("Language: " + lang)
   $translateProvider.preferredLanguage(lang)
-  $translateProvider.fallbackLanguage('en')
+  $translateProvider.fallbackLanguage('ru')
   $translateProvider.useSanitizeValueStrategy('escape')

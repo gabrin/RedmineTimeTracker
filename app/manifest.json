@@ -3,7 +3,7 @@
   "version": "0.9.8",
   "manifest_version": 2,
   "description": "__MSG_extDescription__",
-  "default_locale": "en",
+  "default_locale": "ru",
   "icons": {
     "128": "images/icon_128_gray.png"
   },
